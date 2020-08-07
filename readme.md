@@ -2,7 +2,7 @@
 
 Leandro de Souza Araújo - Barueri SP;
 
-Desenvolvedor Back-end, preferenciamente PHP e NodeJS. Atualmente estudando ReactNative.
+Desenvolvedor Back-end: PHP e NodeJS. Atualmente estudando ReactNative.
 
 ## Formação:
 Instituto Federal de Mato Grosso do Sul - Tecnologo em Sistemas para Internet.
