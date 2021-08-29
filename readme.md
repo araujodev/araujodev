@@ -8,6 +8,7 @@ Desenvolvedor Back-end: PHP e NodeJS. Atualmente estudando ReactNative.
 Instituto Federal de Mato Grosso do Sul - Tecnologo em Sistemas para Internet.
 
 ## Projetos Interessantes:
+- Socket IO Chat Game - https://github.com/araujodev/socket-game-chat
 - Adonis JS Test - https://github.com/araujodev/adonisjs-test
 - Webhook Node JS - https://github.com/araujodev/webhooks-nodejs
 - Api Gateway Node JS - https://github.com/araujodev/api-gateway-nodejs
