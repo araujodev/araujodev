@@ -1,6 +1,6 @@
 # @AraujoDev Profile
 
-Leandro de Souza Araújo - Barueri SP;
+Leandro de Souza Araújo - Barueri SP / Campo Grande MS;
 
 Desenvolvedor Back-end: PHP e NodeJS. Atualmente estudando ReactNative.
 
