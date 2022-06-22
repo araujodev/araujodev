@@ -7,7 +7,8 @@ Desenvolvedor Back-end: PHP e NodeJS. Atualmente estudando ReactNative.
 ## Formação:
 Instituto Federal de Mato Grosso do Sul - Tecnologo em Sistemas para Internet.
 
-## Projetos Interessantes:
+## Projetos Interessantes dentro deste GIT:
+- DynamoDB & NestJS POC - https://github.com/araujodev/dynamodb-test-nest
 - Socket IO Chat Game - https://github.com/araujodev/socket-game-chat
 - Adonis JS Test - https://github.com/araujodev/adonisjs-test
 - Webhook Node JS - https://github.com/araujodev/webhooks-nodejs
